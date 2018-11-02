@@ -1,0 +1,1 @@
+# Starter template for webpack 4, React and TypeScript project.
